@@ -19,4 +19,6 @@ related project on GitHub:
 
 Airtest: https://github.com/AirtestProject/Airtest
 
-Scrcpy :https://github.com/Genymobile/scrcpy
+Scrcpy: https://github.com/Genymobile/scrcpy
+
+DroidAtScreen1: https://github.com/ribomation/DroidAtScreen1
