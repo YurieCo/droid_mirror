@@ -20,6 +20,14 @@ The Android part requires at least API 2.0 (Android 2.0). Python 3.6 (not 3.7 si
 ## RUN
 pip install -r requirements.txt
 
+
+## Expected to be added 
+ | feature                                   |   expected date             |
+ | --------------------------------------    |:----------------------------|
+ | add mouse control like in DroidAtScreen1  |  unknow                     |
+ | end project                               | `2019`                      |
+
+
 ## Related projects
 related project on GitHub:
 
