@@ -1,0 +1,3 @@
+airtest
+lxml
+opencv-python
