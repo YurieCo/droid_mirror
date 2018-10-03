@@ -2,7 +2,13 @@
 
 This application provides screen mirror of android phone.
 
-![screenshot](screenshots/Screenshot_1.png.jpg)
+![screenshot](screenshots/Screenshot_1.png)
+
+
+![screenshot](screenshots/Screenshot_2.png)
+
+
+![screenshot](screenshots/Screenshot_3.png)
 
 
 ## Requirements
